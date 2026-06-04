@@ -9,11 +9,11 @@ Movies vs TV Shows Distribution (Pie Chart) ,
 Content by Rating (Bar Chart) , 
 Genre Distribution Analysis (Bar Chart) , 
 Content Growth by Release Year (Area Chart) ,
-Country-wise Content Distribution (Treemap) ,
+Country-wise Content Distribution (Treemap) .
 
 # Tools & Technologies
 Power BI ,
 DAX ,
 Data Modeling ,
 Data Visualization ,
-Netflix Titles Dataset ,
+Netflix Titles Dataset .
